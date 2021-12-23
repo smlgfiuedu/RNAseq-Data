@@ -17,7 +17,7 @@ write.csv(
 
 gene_count <- read.csv()
 
-annotated_IDs <- read.delim() %>% # file contain gene name
+annotated_IDs <- read.delim() %>% # file contains gene name
   select()
 
 gene_info <- 
